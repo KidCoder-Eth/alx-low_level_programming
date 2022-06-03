@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * Declaration: main - prints the alphabet in lowercase, 
- * followed by a new line, except q and e
+ * main - prints the alphabet in lowercase followed by a new line, except q & e
  * Return: 0 if successful
  */
 int main(void)
