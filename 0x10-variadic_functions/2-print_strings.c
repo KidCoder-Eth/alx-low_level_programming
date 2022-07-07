@@ -1,6 +1,6 @@
 #include "variadic_functions.h"
 /**
- * print_string - prints strings
+ * print_strings - prints strings
  * @separator: separator between strings
  * @n: number of arguments
  */
