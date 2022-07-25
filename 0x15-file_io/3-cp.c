@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - copies the content of a file to another file 
+ * main - copies the content of a file to another file
  * @argc: number of arguments passed to the program
  * @argv: array of arguments
  * Return: Always 0 (Success)
